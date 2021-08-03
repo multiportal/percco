@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+   <head>
+      <?php echo $meta_chartset;?>
+      <title><?php title();?></title>
+      <!--/tags -->
+      <?php echo $metas;?>
+      <META NAME="DESCRIPTION" CONTENT="<?php echo $description;?>">
+      <META NAME="KEYWORDS" CONTENT="<?php echo $keywords;?>">
+	   <!-- LINK-ICON -->
+      <link rel="shortcut icon" type="image/x-icon" href="<?php echo $page_url;?>favicon.ico">
+      <link rel="icon" type="image/x-icon" href="<?php echo $page_url;?>favicon.ico">
+      <?php 
+      sql_opciones('api_icon',$valor);
+      if($valor==1){icon();}
+      ?>
+
+      <script type="application/x-javascript">
+         addEventListener("load", function () {
+         	setTimeout(hideURLbar, 0);
+         }, false);
+         
+         function hideURLbar() {
+         	window.scrollTo(0, 1);
+         }
+      </script>
+      <!--//tags -->
+      <link href="<?php echo $page_url.$path_tema;?>css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+      <link href="<?php echo $page_url.$path_tema;?>css/style.css" rel="stylesheet" type="text/css" media="all" />
+      <link href="<?php echo $page_url.$path_tema;?>css/font-awesome.css" rel="stylesheet">
+      <!-- //for bootstrap working -->
+      <link href="//fonts.googleapis.com/css?family=Work+Sans:200,300,400,500,600,700" rel="stylesheet">
+      <link href="<?php echo $page_url.$path_tema;?>css/styles.css" rel="stylesheet" type="text/css" media="all" />      
+      <script src="<?php echo $page_url;?>assets/jq/jQuery3.4.1.min.js" type="text/javascript"></script>
+
+
+      <!--GOOGLE ANALITYCS-->
+      <?php 
+         sql_opciones('google_analytics',$valor);
+         if($valor==1){echo $google_analytics;}
+      ?>
+      <!--FIN GOOGLE ANALITYCS-->
+      <?php
+         sql_opciones('api_social_chat',$valor);
+         if($valor==1){
+      ?>
+      <!-- WhatsHelp.io widget -->
+      <script type="text/javascript">
+         (function () {
+             var options = {
+                 //facebook: "1785523348388006", // Facebook page ID
+                 whatsapp: "52<?php echo $wapp;?>", // WhatsApp number
+                 call_to_action: "Chatea con nosotros", // Call to action
+                 button_color: "#c8102e", // Color of button
+                 position: "left", // Position may be 'right' or 'left'
+                 order: "whatsapp", // Order of buttons
+             };
+             var proto = document.location.protocol, host = "whatshelp.io", url = proto + "//static." + host;
+             var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+             s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+             var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+         })();
+      </script>
+      <!-- /WhatsHelp.io widget -->
+      <?php }?>
+
+      <?php 
+         if($mod!='Home' && $mod!=''){top_bg();
+         $banner1='<!--banner--><div class="banner_mod"></div><!--/banner-->';
+         }
+      ?>
+
+   </head>
+   <body>
+      <!-- header -->
+      <div class="agileits_top_menu">
+         <div class="w3l_header_left">
+            <ul>
+               <?php
+                  if($tel1!=''){
+                  	echo '<li><span class="fa fa-phone" aria-hidden="true"></span> '.$tel1.'</li>';
+                  }
+                  if($contactMail!=''){
+                  	echo '<li><span class="fa fa-envelope" aria-hidden="true"></span> <a href="mailto:'.$contactMail.'">'.$contactMail.'</a>';
+                  }
+                  ?>
+            </ul>
+         </div>
+         <div class="w3l_header_right">
+            <div class="w3ls-social-icons text-left">
+               <?php
+                  if($fb_web!=''){
+                  	echo '<a target="_blank" class="facebook" href="'.$fb_web.'"><span class="fa fa-facebook"></span></a> ';
+                  }
+                  if($tw_web!=''){
+                  	echo '<a target="_blank" class="twitter" href="'.$tw_web.'"><span class="fa fa-twitter"></span></a> ';
+                  }
+                  if($yt_web!=''){
+                  	echo '<a target="_blank" class="youtube" href="'.$yt_web.'"><span class="fa fa-youtube"></span></a> ';
+                  }
+                  if($gp_web!=''){
+                  	echo '<a target="_blank" class="google-plus" href="'.$gp_web.'"><span class="fa fa-google-plus"></span></a> ';
+                  }
+                  if($lk_web!=''){
+                  	echo '<a target="_blank" class="linkedin" href="'.$lk_web.'"><span class="fa fa-linkedin"></span></a> ';
+                  }
+                  if($ins_web!=''){
+                  	echo '<a target="_blank" class="instagram" href="'.$ins_web.'"><span class="fa fa-instagram"></span></a>';
+                  }
+                  ?>
+            </div>
+         </div>
+         <div class="clearfix"> </div>
+      </div>
+      <div class="content white agile-info">
+         <div class="container">
+            <nav class="mnu navbar-light">
+               <div class="logo" id="logo">
+                  <h1><a href="<?php echo $page_url;?>index.php"><img src="<?php echo $page_url.$path_tema.'images/'.$logo;?>"></a></h1>
+               </div>
+               <label for="drop" class="toggle"><span class="fa fa-bars"></span></label>
+               <input type="checkbox" id="drop">
+               <ul class="menu">
+                  <?php echo menu_web();?>
+               </ul>
+            </nav>
+         </div>
+      </div>
+      <?php echo $banner1;?>
+      <!--Modulos-->
+      <?php bodymodulos();?>
+      <!--/Modulos-->
+      <!-- footer -->
+      <div class="footer_top_agileits">
+         <div class="container">
+            <div class="row foot-lft">
+               <div class="col-lg-4 footer_grid">
+                  <h3>Nosotros</h3>
+                  <p>Performance Coating es una empresa que ofrece Fabricaci&oacute;n de l&iacute;neas de Pintura Electr&oacute;statica, Maquila de Pintura Electr&oacute;statica, Instalaci&oacute;n de Sistemas Contraincendios, Fabricaci&oacute;n de Naves Industriales, Transportadores Industriales as&iacute; como un Proceso de Manufactura; Soldadura, Corte y Doblez. Ofrecemos Mantenimiento y Refacciones.</p>
+               </div>
+               <div class="col-lg-4 footer_grid">
+                  <h3>Testimonios</h3>
+                  <?php testimonios();?>
+                  <!--ul class="footer_grid_list">
+                     <li><span class="fa fa-long-arrow-right" aria-hidden="true"></span>
+                     	<a href="services.html">Lorem ipsum neque vulputate </a>
+                     </li>
+                     <li><span class="fa fa-long-arrow-right" aria-hidden="true"></span>
+                     	<a href="services.html">Dolor amet sed quam vitae</a>
+                     </li>
+                  </ul-->
+               </div>
+               <div class="col-lg-4 footer_grid">
+                  <h3>Contacto</h3>
+                  <ul class="address">
+                     <?php 
+                        if($direc!=''){
+                        	echo '<li><span class="fa fa-map-marker" aria-hidden="true"></span>'.$direc.'</li>';
+                        }
+                        if($contactMail!=''){
+                        	echo '<li><span class="fa fa-envelope" aria-hidden="true"></span><a href="mailto:'.$contactMail.'">'.$contactMail.'</a></li>';	
+                        }
+                        if($tel1!=''){
+                        	echo '<li><span class="fa fa-phone" aria-hidden="true"></span>'.$tel1.'</li>';
+                        }
+                      ?>                
+                  </ul>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="footer_w3ls">
+         <div class="container">
+         	<div class="footer_bottom1">
+         		<p>&copy; <?php echo $year.' '.$page_name;?> Todos los derechos<!--a target="_blank" href="<?php echo $page_url;?>privacidad.php">Privacidad</a--></p>
+         	</div>
+         </div>
+      </div>
+      <!-- //footer -->
+	<script src="<?php echo $page_url.$path_tema;?>js/jquery-3.2.1.slim.min.js"></script>
+    <script src="<?php echo $page_url.$path_tema;?>js/popper.min.js"></script>
+	<script src="<?php echo $page_url.$path_tema;?>js/bootstrap.min.js"></script>      
+   <script>
+   	$('.carousel').carousel({
+  	interval: 2000
+	})
+   </script>
+   </body>
+</html>

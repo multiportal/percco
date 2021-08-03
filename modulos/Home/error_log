@@ -1,0 +1,292 @@
+[03-Oct-2020 20:43:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[04-Nov-2020 05:42:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[17-Nov-2020 14:23:18 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[26-Nov-2020 09:57:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[28-Nov-2020 22:00:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[04-Dec-2020 11:38:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:53:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:54:06 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:28 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:29 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:29 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:36 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:36 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:41 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:41 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:46 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:48 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:48 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:48 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:49 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:51 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:51 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:55:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 09:56:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[13-Feb-2021 10:24:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[12-Apr-2021 15:49:07 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[18-Apr-2021 14:27:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[19-Apr-2021 13:40:15 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[23-Apr-2021 21:54:20 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[28-Apr-2021 05:56:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[03-May-2021 20:10:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[20-May-2021 21:38:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[22-May-2021 17:57:49 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
+[06-Jul-2021 06:59:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sql_opciones() in /home3/perccoco/public_html/modulos/Home/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/perccoco/public_html/modulos/Home/index.php on line 3
