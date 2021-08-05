@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es-MX">
+<html lang="es">
    <head>
       <?php echo $meta_chartset;?>
       <title><?php title();?></title>
@@ -185,5 +185,9 @@
   	interval: 2000
 	})
    </script>
+   <?php
+   sql_opciones('ssl',$valor);
+   if($valor==1){ssl();}
+   ?>
    </body>
 </html>
