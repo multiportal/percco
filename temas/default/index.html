@@ -137,5 +137,9 @@ if($ins_web!=''){
 </div>
 <?php }?>
 <?php API_WPA();?>
+<?php
+      sql_opciones('ssl',$valor);
+      if($valor==1){ssl();}
+?>
 </body>
 </html>
