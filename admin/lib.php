@@ -5,7 +5,7 @@ Author URI: https://www.multiportal.com.mx
 SISTEMA PHPONIX
 Version Actual: 2.8.2
 F.Creación: 26/03/2015
-F.Modficación: 12/05/2021
+F.Modficación: 02/08/2021
 Descripción: Aplicación web multiproposito.
 /**********************************************************
 v.2.8.2 - TOKEN
@@ -204,7 +204,7 @@ $sql_mod=mysqli_query($mysqli,"SELECT * FROM ".$DBprefix."modulos WHERE modulo='
 $cont_mod=mysqli_num_rows($sql_mod);
 if($cont_mod==0){
 	//echo '<div id="alert-system"><div class="alert">El modulo no existe en la DB! '.$back.'</div></div>';
-	header('Location: '.$page_url.'/404.php');//exit();
+	header('Location: '.$page_url.'/404.php');
 }else{
 	if($row_mod=mysqli_fetch_array($sql_mod)){
 		$ID_mod=$row_mod['ID'];
@@ -2281,12 +2281,15 @@ function RanUrl(){
 }
 
 function ssl(){
-global $host,$path_root;
-	echo '<script>
+global $host,$path_root,$dominio1,$page_url;
+echo '<script>
 	const protocol = window.location.protocol;
-	console.log("protocol=" + protocol);
-	if(protocol=="http:"){window.location="https://'.$host.$path_root.'";}
-	</script>';
+	const host = window.location.host;
+	const dominio = protocol + "//" + host + "/";
+	if(protocol=="http:" || dominio!="'.$page_url.'"){
+		window.location="'.$page_url.'";
+	}
+</script>';
 }
 
 function clear_sw(){
