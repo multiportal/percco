@@ -3,3 +3,10 @@ _notes/
 _temp/
 _templates/
 _template/
+
+admin/.env
+
+api/
+apps/
+assets/
+bloques/
